@@ -1,3 +1,4 @@
+import pandas as pd
 class InsightAgent:
     def __init__(self):
         pass

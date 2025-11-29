@@ -1,553 +1,443 @@
 [
   {
     "campaign": "Men ComfortMax Launch",
-    "first_roas": 12.381,
-    "last_roas": 11.198,
-    "roas_change_pct": -9.55,
-    "ctr_change": -0.0022,
-    "impressions_change": -444546,
-    "purchases_change": -791,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 12.380657894736844,
+      "last_roas": 11.197948717948716,
+      "ctr_change": -0.0021814352314352328
+    },
+    "t_pval": 0.00017810441851550293
   },
   {
     "campaign": "Men  ComfortMax  Launch",
-    "first_roas": 10.132,
-    "last_roas": 12.921,
-    "roas_change_pct": 27.52,
-    "ctr_change": -0.0023,
-    "impressions_change": -934292,
-    "purchases_change": -680,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 10.132399999999999,
+      "last_roas": 12.921153846153848,
+      "ctr_change": -0.002306153846153845
+    },
+    "t_pval": 0.06462036290052413
+  },
+  {
+    "campaign": "Men_ComfortMax_Launch",
+    "evidence": {
+      "first_roas": 9.465757575757577,
+      "last_roas": 11.210571428571429,
+      "ctr_change": -0.0017168907563025262
+    },
+    "t_pval": 0.13683681838093925
   },
   {
     "campaign": "Men Comfortmax Launch",
-    "first_roas": 8.523,
-    "last_roas": 8.428,
-    "roas_change_pct": -1.12,
-    "ctr_change": -0.0005,
-    "impressions_change": -1511825,
-    "purchases_change": -780,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 8.52346153846154,
+      "last_roas": 8.428214285714288,
+      "ctr_change": -0.00045952380952381244
+    },
+    "t_pval": 0.6592071798818184
+  },
+  {
+    "campaign": "MEN COMFORTMAX LAUNCH",
+    "evidence": {
+      "first_roas": 11.745,
+      "last_roas": 11.357,
+      "ctr_change": -0.00010999999999999899
+    },
+    "t_pval": 0.9201777412781754
   },
   {
     "campaign": "men comfortmax launch",
-    "first_roas": 15.258,
-    "last_roas": 21.096,
-    "roas_change_pct": 38.26,
-    "ctr_change": -0.0006,
-    "impressions_change": 8204,
-    "purchases_change": -131,
-    "reasons": [
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.15
+    "evidence": {
+      "first_roas": 15.257727272727276,
+      "last_roas": 21.095909090909085,
+      "ctr_change": -0.0005636363636363668
+    },
+    "t_pval": 0.6478606364482224
   },
   {
     "campaign": "WOMEN Seamless Everyday",
-    "first_roas": 12.466,
-    "last_roas": 9.379,
-    "roas_change_pct": -24.76,
-    "ctr_change": -0.0006,
-    "impressions_change": -2078617,
-    "purchases_change": -319,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 12.465662650602408,
+      "last_roas": 9.378780487804878,
+      "ctr_change": -0.0005915662650602393
+    },
+    "t_pval": 0.06082271714484905
   },
   {
     "campaign": "Women Seamless Everyday",
-    "first_roas": 6.52,
-    "last_roas": 7.254,
-    "roas_change_pct": 11.25,
-    "ctr_change": -0.001,
-    "impressions_change": -666187,
-    "purchases_change": -494,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 6.520434782608697,
+      "last_roas": 7.25375,
+      "ctr_change": -0.000984782608695653
+    },
+    "t_pval": 0.09029688135300036
   },
   {
     "campaign": "WOMEN  Seamless  Everyday",
-    "first_roas": 6.369,
-    "last_roas": 9.001,
-    "roas_change_pct": 41.32,
-    "ctr_change": -0.0004,
-    "impressions_change": -619304,
-    "purchases_change": -137,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 6.369230769230769,
+      "last_roas": 9.000769230769231,
+      "ctr_change": -0.0003596866096866108
+    },
+    "t_pval": 0.49640515643600014
+  },
+  {
+    "campaign": "WOMEN_Seamless_Everyday",
+    "evidence": {
+      "first_roas": 5.904074074074074,
+      "last_roas": 5.945,
+      "ctr_change": -0.000882407407407409
+    },
+    "t_pval": 0.0632989495091876
   },
   {
     "campaign": "women seamless everyday",
-    "first_roas": 6.217,
-    "last_roas": 4.79,
-    "roas_change_pct": -22.95,
-    "ctr_change": 0.0,
-    "impressions_change": -1353743,
-    "purchases_change": -422,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 6.217083333333335,
+      "last_roas": 4.79,
+      "ctr_change": 4.738461538461754e-05
+    },
+    "t_pval": 0.9314199365614182
+  },
+  {
+    "campaign": "WOMEN SEAMLESS EVERYDAY",
+    "evidence": {
+      "first_roas": 13.33625,
+      "last_roas": 13.319600000000001,
+      "ctr_change": -0.0006338333333333352
+    },
+    "t_pval": 0.26217383665451
   },
   {
     "campaign": "MEN | ATHLEISURE COOLING",
-    "first_roas": 24.724,
-    "last_roas": 16.355,
-    "roas_change_pct": -33.85,
-    "ctr_change": 0.0001,
-    "impressions_change": 431425,
-    "purchases_change": 155,
-    "reasons": [
-      "Significant ROAS drop (>25%) between halves."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 24.723846153846157,
+      "last_roas": 16.355185185185185,
+      "ctr_change": 6.638176638176438e-05
+    },
+    "t_pval": 0.962837154881365
   },
   {
     "campaign": "Men | Athleisure Cooling",
-    "first_roas": 21.985,
-    "last_roas": 19.064,
-    "roas_change_pct": -13.29,
-    "ctr_change": -0.0007,
-    "impressions_change": -631446,
-    "purchases_change": -1348,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 21.985479452054793,
+      "last_roas": 19.063972602739728,
+      "ctr_change": -0.000713698630136983
+    },
+    "t_pval": 0.31939253276194873
   },
   {
     "campaign": "Men_|_Athleisure_Cooling",
-    "first_roas": 22.071,
-    "last_roas": 18.511,
-    "roas_change_pct": -16.13,
-    "ctr_change": -0.0018,
-    "impressions_change": -273348,
-    "purchases_change": -1746,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 22.071428571428573,
+      "last_roas": 18.51103448275862,
+      "ctr_change": -0.0017902709359605869
+    },
+    "t_pval": 0.15905469512588702
   },
   {
     "campaign": "men | athleisure cooling",
-    "first_roas": 23.186,
-    "last_roas": 14.553,
-    "roas_change_pct": -37.24,
-    "ctr_change": -0.0025,
-    "impressions_change": 2938548,
-    "purchases_change": 963,
-    "reasons": [
-      "Significant ROAS drop (>25%) between halves."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 23.186060606060607,
+      "last_roas": 14.552727272727275,
+      "ctr_change": -0.002475757575757572
+    },
+    "t_pval": 0.024912016548950235
   },
   {
     "campaign": "Men  |  Athleisure  Cooling",
-    "first_roas": 20.73,
-    "last_roas": 19.089,
-    "roas_change_pct": -7.92,
-    "ctr_change": 0.0003,
-    "impressions_change": -688199,
-    "purchases_change": 160,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink)."
-    ],
-    "confidence": 0.15
+    "evidence": {
+      "first_roas": 20.730454545454545,
+      "last_roas": 19.088695652173914,
+      "ctr_change": 0.0002897233201581001
+    },
+    "t_pval": 0.8456595063246777
   },
   {
     "campaign": "Men-Athleisure Cooling",
-    "first_roas": 23.195,
-    "last_roas": 19.835,
-    "roas_change_pct": -14.49,
-    "ctr_change": 0.001,
-    "impressions_change": -357258,
-    "purchases_change": -173,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 23.194827586206898,
+      "last_roas": 19.8348275862069,
+      "ctr_change": 0.0009689655172413769
+    },
+    "t_pval": 0.4177730294273665
   },
   {
     "campaign": "women summer invisible",
-    "first_roas": 7.43,
-    "last_roas": 5.128,
-    "roas_change_pct": -30.98,
-    "ctr_change": -0.0013,
-    "impressions_change": -441097,
-    "purchases_change": 17,
-    "reasons": [
-      "Significant ROAS drop (>25%) between halves.",
-      "Impressions decreased (possible budget/audience shrink)."
-    ],
-    "confidence": 0.45
-  },
-  {
-    "campaign": "WOMEN SUMMER INVISIBLE",
-    "first_roas": 5.52,
-    "last_roas": 7.62,
-    "roas_change_pct": 38.03,
-    "ctr_change": 0.0004,
-    "impressions_change": 151889,
-    "purchases_change": -100,
-    "reasons": [
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.15
+    "evidence": {
+      "first_roas": 7.429565217391304,
+      "last_roas": 5.127916666666667,
+      "ctr_change": -0.0013021739130434778
+    },
+    "t_pval": 0.08635655019666112
   },
   {
     "campaign": "women Summer Invisible",
-    "first_roas": 10.507,
-    "last_roas": 7.284,
-    "roas_change_pct": -30.68,
-    "ctr_change": -0.0008,
-    "impressions_change": 3023805,
-    "purchases_change": 87,
-    "reasons": [
-      "Significant ROAS drop (>25%) between halves."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 10.506973684210527,
+      "last_roas": 7.283684210526315,
+      "ctr_change": -0.0007644736842105267
+    },
+    "t_pval": 0.053697249344444024
+  },
+  {
+    "campaign": "Women Summer Invisible",
+    "evidence": {
+      "first_roas": 6.212608695652174,
+      "last_roas": 6.5095652173913034,
+      "ctr_change": -0.0006086956521739115
+    },
+    "t_pval": 0.3136456546289453
   },
   {
     "campaign": "MEN_Signature_Soft",
-    "first_roas": 1.83,
-    "last_roas": 2.493,
-    "roas_change_pct": 36.21,
-    "ctr_change": -0.0017,
-    "impressions_change": 474527,
-    "purchases_change": -22,
-    "reasons": [
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.15
+    "evidence": {
+      "first_roas": 1.83,
+      "last_roas": 2.4927272727272727,
+      "ctr_change": -0.0017155844155844133
+    },
+    "t_pval": 0.16409966753184696
+  },
+  {
+    "campaign": "men signature soft",
+    "evidence": {
+      "first_roas": 3.391071428571428,
+      "last_roas": 3.2964285714285717,
+      "ctr_change": -0.0002821428571428558
+    },
+    "t_pval": 0.7329709421185298
   },
   {
     "campaign": "MEN  Signature  Soft",
-    "first_roas": 2.21,
-    "last_roas": 1.771,
-    "roas_change_pct": -19.87,
-    "ctr_change": -0.0024,
-    "impressions_change": -305350,
-    "purchases_change": -75,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 2.2096428571428572,
+      "last_roas": 1.770689655172414,
+      "ctr_change": -0.002426600985221676
+    },
+    "t_pval": 0.018405980570948437
   },
   {
     "campaign": "MEN SIGNATURE SOFT",
-    "first_roas": 2.992,
-    "last_roas": 1.726,
-    "roas_change_pct": -42.33,
-    "ctr_change": -0.0006,
-    "impressions_change": -95234,
-    "purchases_change": -23,
-    "reasons": [
-      "Significant ROAS drop (>25%) between halves.",
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.6
+    "evidence": {
+      "first_roas": 2.992222222222222,
+      "last_roas": 1.7255555555555555,
+      "ctr_change": -0.0006148148148148146
+    },
+    "t_pval": 0.4767224669154644
   },
   {
     "campaign": "Men Signature Soft",
-    "first_roas": 2.903,
-    "last_roas": 1.82,
-    "roas_change_pct": -37.31,
-    "ctr_change": 0.0001,
-    "impressions_change": -774365,
-    "purchases_change": 7,
-    "reasons": [
-      "Significant ROAS drop (>25%) between halves.",
-      "Impressions decreased (possible budget/audience shrink)."
-    ],
-    "confidence": 0.45
+    "evidence": {
+      "first_roas": 2.9030000000000005,
+      "last_roas": 1.8200000000000003,
+      "ctr_change": 5.35714285714254e-05
+    },
+    "t_pval": 0.9624279603056878
   },
   {
     "campaign": "Women Fit & Lift",
-    "first_roas": 6.289,
-    "last_roas": 5.112,
-    "roas_change_pct": -18.71,
-    "ctr_change": 0.0002,
-    "impressions_change": -2018564,
-    "purchases_change": -165,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 6.2885915492957745,
+      "last_roas": 5.111944444444444,
+      "ctr_change": 0.00024859154929577493
+    },
+    "t_pval": 0.740713804513392
   },
   {
     "campaign": "Women_Fit_&_Lift",
-    "first_roas": 6.723,
-    "last_roas": 5.449,
-    "roas_change_pct": -18.95,
-    "ctr_change": -0.0019,
-    "impressions_change": -100702,
-    "purchases_change": -94,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 6.723076923076923,
+      "last_roas": 5.4488,
+      "ctr_change": -0.0018730769230769218
+    },
+    "t_pval": 0.0893174012156244
   },
   {
     "campaign": "Women  Fit  &  Lift",
-    "first_roas": 4.315,
-    "last_roas": 6.285,
-    "roas_change_pct": 45.65,
-    "ctr_change": -0.0,
-    "impressions_change": -1056380,
-    "purchases_change": -167,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 4.315333333333332,
+      "last_roas": 6.2854838709677425,
+      "ctr_change": -5.698924731178945e-06
+    },
+    "t_pval": 0.9958996869640462
   },
   {
     "campaign": "WOMEN FIT & LIFT",
-    "first_roas": 5.121,
-    "last_roas": 5.609,
-    "roas_change_pct": 9.53,
-    "ctr_change": -0.0003,
-    "impressions_change": -1357260,
-    "purchases_change": -546,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 5.121,
+      "last_roas": 5.6090625,
+      "ctr_change": -0.0003301411290322562
+    },
+    "t_pval": 0.756995023067664
   },
   {
     "campaign": "Women Fit and Lift",
-    "first_roas": 5.652,
-    "last_roas": 6.524,
-    "roas_change_pct": 15.43,
-    "ctr_change": -0.0021,
-    "impressions_change": 538039,
-    "purchases_change": -47,
-    "reasons": [
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.15
+    "evidence": {
+      "first_roas": 5.652105263157895,
+      "last_roas": 6.523999999999999,
+      "ctr_change": -0.0020926315789473737
+    },
+    "t_pval": 0.08453375402708724
+  },
+  {
+    "campaign": "Men  Bold  Colors  Drop",
+    "evidence": {
+      "first_roas": 2.8661538461538454,
+      "last_roas": 2.871481481481481,
+      "ctr_change": -0.0005544159544159551
+    },
+    "t_pval": 0.4342268880488397
   },
   {
     "campaign": "MEN BOLD COLORS DROP",
-    "first_roas": 2.703,
-    "last_roas": 2.024,
-    "roas_change_pct": -25.15,
-    "ctr_change": -0.0008,
-    "impressions_change": 160497,
-    "purchases_change": -185,
-    "reasons": [
-      "Significant ROAS drop (>25%) between halves.",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.45
+    "evidence": {
+      "first_roas": 2.703333333333333,
+      "last_roas": 2.0235483870967745,
+      "ctr_change": -0.0008065591397849407
+    },
+    "t_pval": 0.1839183207731479
   },
   {
     "campaign": "Men Bold Colors Drop",
-    "first_roas": 3.145,
-    "last_roas": 2.217,
-    "roas_change_pct": -29.49,
-    "ctr_change": -0.0009,
-    "impressions_change": 3254077,
-    "purchases_change": 28,
-    "reasons": [
-      "Significant ROAS drop (>25%) between halves."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 3.1449999999999996,
+      "last_roas": 2.2174509803921567,
+      "ctr_change": -0.0009254901960784306
+    },
+    "t_pval": 0.011297185585617294
   },
   {
     "campaign": "men bold colors drop",
-    "first_roas": 3.185,
-    "last_roas": 2.297,
-    "roas_change_pct": -27.9,
-    "ctr_change": -0.0002,
-    "impressions_change": 135736,
-    "purchases_change": 34,
-    "reasons": [
-      "Significant ROAS drop (>25%) between halves."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 3.1853846153846157,
+      "last_roas": 2.2966666666666664,
+      "ctr_change": -0.00017492877492877347
+    },
+    "t_pval": 0.7982733206474887
   },
   {
     "campaign": "WOMEN Cotton Classics",
-    "first_roas": 13.168,
-    "last_roas": 12.711,
-    "roas_change_pct": -3.47,
-    "ctr_change": -0.0013,
-    "impressions_change": -2040563,
-    "purchases_change": -498,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 13.167792207792207,
+      "last_roas": 12.711410256410257,
+      "ctr_change": -0.001266699966699968
+    },
+    "t_pval": 0.00976574249032289
   },
   {
     "campaign": "Women Cotton Classics",
-    "first_roas": 18.799,
-    "last_roas": 15.982,
-    "roas_change_pct": -14.98,
-    "ctr_change": 0.0004,
-    "impressions_change": -1261153,
-    "purchases_change": -216,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 18.798846153846153,
+      "last_roas": 15.981851851851852,
+      "ctr_change": 0.0004450142450142438
+    },
+    "t_pval": 0.5121487021705682
   },
   {
     "campaign": "WOMEN  Cotton  Classics",
-    "first_roas": 9.583,
-    "last_roas": 15.424,
-    "roas_change_pct": 60.96,
-    "ctr_change": -0.0007,
-    "impressions_change": 214074,
-    "purchases_change": -288,
-    "reasons": [
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.15
+    "evidence": {
+      "first_roas": 9.582692307692307,
+      "last_roas": 15.424230769230771,
+      "ctr_change": -0.0007115384615384596
+    },
+    "t_pval": 0.33426417353810145
+  },
+  {
+    "campaign": "women cotton classics",
+    "evidence": {
+      "first_roas": 11.993076923076925,
+      "last_roas": 14.429259259259261,
+      "ctr_change": -0.0008525641025641014
+    },
+    "t_pval": 0.26753452031061875
+  },
+  {
+    "campaign": "WOMEN_Cotton_Classics",
+    "evidence": {
+      "first_roas": 12.84125,
+      "last_roas": 12.326250000000002,
+      "ctr_change": -0.0012583333333333318
+    },
+    "t_pval": 0.060297369157464045
+  },
+  {
+    "campaign": "WOMEN COTTON CLASSICS",
+    "evidence": {
+      "first_roas": 10.774782608695654,
+      "last_roas": 11.239583333333334,
+      "ctr_change": -0.0008074275362318813
+    },
+    "t_pval": 0.3742373293128539
   },
   {
     "campaign": "Men_Premium_Modal",
-    "first_roas": 6.894,
-    "last_roas": 6.894,
-    "roas_change_pct": -0.01,
-    "ctr_change": 0.0005,
-    "impressions_change": -2406642,
-    "purchases_change": -681,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 6.894166666666666,
+      "last_roas": 6.89375,
+      "ctr_change": 0.0005166666666666653
+    },
+    "t_pval": 0.5324290980017801
   },
   {
     "campaign": "Men Premium Modal",
-    "first_roas": 9.531,
-    "last_roas": 10.335,
-    "roas_change_pct": 8.44,
-    "ctr_change": -0.0004,
-    "impressions_change": -581479,
-    "purchases_change": -690,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 9.53068376068376,
+      "last_roas": 10.334615384615384,
+      "ctr_change": -0.0003547008547008564
+    },
+    "t_pval": 0.3478145750625722
   },
   {
     "campaign": "Men  Premium  Modal",
-    "first_roas": 8.812,
-    "last_roas": 7.378,
-    "roas_change_pct": -16.28,
-    "ctr_change": -0.0016,
-    "impressions_change": -271904,
-    "purchases_change": -199,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 8.812399999999998,
+      "last_roas": 7.377692307692308,
+      "ctr_change": -0.0016303076923076913
+    },
+    "t_pval": 0.08053612573588351
   },
   {
     "campaign": "MEN PREMIUM MODAL",
-    "first_roas": 11.293,
-    "last_roas": 11.293,
-    "roas_change_pct": 0.0,
-    "ctr_change": -0.0002,
-    "impressions_change": -676869,
-    "purchases_change": -190,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 11.293076923076923,
+      "last_roas": 11.293076923076923,
+      "ctr_change": -0.0002499999999999985
+    },
+    "t_pval": 0.752660789524728
   },
   {
     "campaign": "Women_|_Studio_Sports",
-    "first_roas": 13.441,
-    "last_roas": 7.869,
-    "roas_change_pct": -41.46,
-    "ctr_change": -0.0004,
-    "impressions_change": -1564236,
-    "purchases_change": -865,
-    "reasons": [
-      "Significant ROAS drop (>25%) between halves.",
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.6
+    "evidence": {
+      "first_roas": 13.4409375,
+      "last_roas": 7.86875,
+      "ctr_change": -0.0003906250000000021
+    },
+    "t_pval": 0.5579289673053891
   },
   {
     "campaign": "women | studio sports",
-    "first_roas": 16.398,
-    "last_roas": 8.896,
-    "roas_change_pct": -45.75,
-    "ctr_change": -0.0002,
-    "impressions_change": -416081,
-    "purchases_change": -64,
-    "reasons": [
-      "Significant ROAS drop (>25%) between halves.",
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.6
+    "evidence": {
+      "first_roas": 16.398,
+      "last_roas": 8.895666666666665,
+      "ctr_change": -0.0001866666666666683
+    },
+    "t_pval": 0.7533084986735104
   },
   {
     "campaign": "WOMEN | STUDIO SPORTS",
-    "first_roas": 17.919,
-    "last_roas": 16.607,
-    "roas_change_pct": -7.32,
-    "ctr_change": -0.0003,
-    "impressions_change": -708167,
-    "purchases_change": -709,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink).",
-      "Purchases decreased in later period."
-    ],
-    "confidence": 0.3
+    "evidence": {
+      "first_roas": 17.918636363636367,
+      "last_roas": 16.607272727272726,
+      "ctr_change": -0.00032727272727272813
+    },
+    "t_pval": 0.629142367408768
   },
   {
     "campaign": "Women  |  Studio  Sports",
-    "first_roas": 16.059,
-    "last_roas": 16.416,
-    "roas_change_pct": 2.22,
-    "ctr_change": -0.0003,
-    "impressions_change": -647649,
-    "purchases_change": 300,
-    "reasons": [
-      "Impressions decreased (possible budget/audience shrink)."
-    ],
-    "confidence": 0.15
+    "evidence": {
+      "first_roas": 16.059166666666666,
+      "last_roas": 16.416,
+      "ctr_change": -0.0003370000000000005
+    },
+    "t_pval": 0.6636385477029783
   }
 ]
