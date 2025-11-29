@@ -17,7 +17,7 @@ flowchart TD
 
 ### PNG Diagram (visual version)
 
-![Agent Graph](prompts/agent_graph.png)
+![Agent Graph](agent_graph.png)
 
 ---
 
