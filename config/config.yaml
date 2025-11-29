@@ -1,0 +1,7 @@
+# thresholds and paths
+low_ctr_std_multiplier: 0.5
+roas_drop_pct: 25
+min_rows_for_analysis: 4
+data_path: data/synthetic_fb_ads_undergarments.csv
+out_dir: reports/
+seed: 42
