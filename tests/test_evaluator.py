@@ -20,4 +20,4 @@ date,campaign_name,ctr,roas,impressions,clicks,purchases
 
     assert isinstance(out, list)
     assert out[0]["campaign"] == "TestCamp"
-# d
+# Done
